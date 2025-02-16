@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/toolsfinder0" target="blank"><img src="https://img.shields.io/twitter/follow/toolsfinder0?logo=twitter&style=for-the-badge" alt="toolsfinder0" /></a> </p>
 
-- 🔭 I’m currently working on **Social Media Analyst**
+- 🔭 I’m currently working on **AI Development**
 
 - 🌱 I’m currently learning **Framework, system, C, Python**
 
