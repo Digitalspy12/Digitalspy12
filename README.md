@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm kundan </h1>
-<h3 align="center">A Student from India, Love the thriller of computer and Internet.</h3>
+<h3 align="center">A Student from India Bsc CS , Love the thriller of computer and Internet.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digitalspy12&label=Profile%20views&color=0e75b6&style=flat" alt="digitalspy12" /> </p>
 
@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning **Framework, system, C, Python**
 
 - 👯 I’m looking to collaborate on **hackathon**
+- Professional Working on **Junior AI/ML Development**
 
 - 📫 How to reach me **shink0856@protonmail.com**
 
