@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm kundan </h1>
-<h3 align="center">A Student from India FY Bsc CS , Love the thriller of computer and Internet.</h3>
+<h3 align="center">A Student from India SY Bsc CS , Love the thriller of computer and Internet.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digitalspy12&label=Profile%20views&color=0e75b6&style=flat" alt="digitalspy12" /> </p>
 
