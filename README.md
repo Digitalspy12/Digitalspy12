@@ -6,7 +6,8 @@
 <p align="left"> <a href="https://twitter.com/toolsfinder0" target="blank"><img src="https://img.shields.io/twitter/follow/toolsfinder0?logo=twitter&style=for-the-badge" alt="toolsfinder0" /></a> </p>
 
 - 🔭 I’m currently working on **AI Development**
-
+- I Fully Learning and invest Time in **Development
+    with AI (END TO END ) (FOR PRODUCTION )**
 - 🌱 I’m currently learning **Framework, system, C, Python**
 
 - 👯 I’m looking to collaborate on **hackathon**
